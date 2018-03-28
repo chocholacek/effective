@@ -1,0 +1,6 @@
+*
+!.gitignore
+!bricks
+!Makefile
+!*.pdf
+!*_sources
