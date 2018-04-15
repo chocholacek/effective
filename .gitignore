@@ -3,4 +3,6 @@
 !bricks
 !Makefile
 !*.pdf
-!*_sources
+!charset_sources
+!matrix_sources
+!/*_sources
