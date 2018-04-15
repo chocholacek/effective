@@ -6,3 +6,4 @@
 !charset_sources/
 !matrix_sources/
 !*_sources/
+!*_sources/*
