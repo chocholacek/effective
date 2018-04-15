@@ -1,8 +1,8 @@
 *
 !.gitignore
-!bricks
+!bricks/
 !Makefile
 !*.pdf
-!charset_sources
-!matrix_sources
-!/*_sources
+!charset_sources/
+!matrix_sources/
+!*_sources/
